@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["dslove10@gmail.com"]
 
   spec.summary       = "This is a simple gem that will help extend the functionality of strings"
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/dslove10/stringer_gem"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
